@@ -9,22 +9,22 @@ Program ini merupakan implementasi dari Graphical User Interface (GUI) dengan ba
 ### Screenshot Program
 
   <p align="left">
-    <img width="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/tampilanPertama.png">
+    <img width="751" height="399" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/tampilanPertama.png">
   </p>
   
 - Add
   <p align="left">
-    <img width="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/add.gif">
+    <img width="751" height="399" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/add.gif">
   </p>
 - Hapus
   <p align="left">
-    <img width="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/delete.gif">
+    <img width="751" height="399" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/delete.gif">
   </p>
 - Selesai
   <p align="left">
-    <img width="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/selesai.gif">
+    <img width="751" height="399" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/selesai.gif">
   </p>
 - Sorting
   <p align="left">
-    <img wwidth="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/sorting.gif">
+    <img wwidth="751" height="399" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/sorting.gif">
   </p>
