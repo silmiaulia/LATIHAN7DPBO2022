@@ -8,6 +8,11 @@ Program ini merupakan implementasi dari Graphical User Interface (GUI) dengan ba
 
 ### Screenshot Program
 
+  <p align="left">
+    <img width="971" height="499" src="https://github.com/silmiaulia/LATIHAN7DPBO2022/blob/main/Screenshot/tampilanPertama.png">
+  </p>
+  
+
 - Add
   <p align="left">
     <img width="443" height="452" src="https://github.com/silmiaulia/LATIHAN5DPBO20creenShoot/1.png?raw=true">
